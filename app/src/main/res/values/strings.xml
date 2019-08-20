@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula4</string>
+    <string name="nota1">Nota 1:</string>
+    <string name="nota2">Nota 2:</string>
+    <string name="nota3">Nota 3:</string>
+    <string name="media">Média:</string>
+    <string name="situacao">Situação:</string>
+    <string name="calcular">Calcular</string>
+</resources>
